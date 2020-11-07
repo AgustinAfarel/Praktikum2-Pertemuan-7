@@ -16,5 +16,5 @@ elif ( bilangan2 > bilangan1 ) and ( bilangan2 > bilangan3 ) :
     print("bilangan 2 lebih besar dari bilangan 1 dan 3")
 elif ( bilangan3 > bilangan1 ) and ( bilangan3 > bilangan2 ) :
     print ("bilangan 3 lebih besar dari bilangan 1 dan 2")
-else :
-    print("semua bilangan sama besarnya")
+
+
