@@ -111,4 +111,7 @@ Berikut syntax screenshot dari Program yang saya buat :
 1. Contoh Gambar inputan dengan angka terbesar yang ada di inputan pertama<br>
 ![Gambar](Picture3/Gambar1.PNG)
 2. Contoh Gambar inputan dengan angka terbesar yang ada di inputan kedua<br>
-![Gambar](Picuture3/Gambar2.PNG)
+![Gambar](Picture3/Gambar2.PNG)
+3. Contoh Gambar inputan dengan angka sama besar<br>
+![Gambar](Picture3/Gambar3.PNG)
+
