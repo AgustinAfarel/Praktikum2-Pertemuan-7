@@ -108,4 +108,4 @@ else:
     print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama ({angka1}} dan kedua ({angka2})
 
 Berikut syntax screenshot dari Program yang saya buat :
-![Gambar](Picture3/Gambar1.PNG)
+![Gambar][Picture3/Gambar1.PNG]
