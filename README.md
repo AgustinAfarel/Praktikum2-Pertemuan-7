@@ -106,6 +106,9 @@ Untuk menampilkan hasil akhir, maka hanya dengan mengetikan syntax sebagai berik
 ``` python
 else:
     print(f"Bilangan ketiga ({angka3}) lebih besar dari Bilangan pertama ({angka1}} dan kedua ({angka2})
-
+```
 Berikut syntax screenshot dari Program yang saya buat :
-![Gambar][Picture3/Gambar1.PNG]
+1. Contoh Gambar inputan dengan angka terbesar yang ada di inputan pertama<br>
+![Gambar](Picture3/Gambar1.PNG)
+2. Contoh Gambar inputan dengan angka terbesar yang ada di inputan kedua<br>
+![Gambar](Picuture3/Gambar2.PNG)
